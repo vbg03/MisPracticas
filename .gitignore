@@ -1,8 +1,0 @@
-# Ignorar Vagrant y cosas de sistema accidentalmente fuera de este folder
-.vagrant/
-*.log
-*.tmp
-.DS_Store
-node_modules/
-
-# Asegúrate de no incluir por error la carpeta padre
